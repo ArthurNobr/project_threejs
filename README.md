@@ -16,4 +16,4 @@ https://github.com/ArthurNobr/project_threejs/assets/97702385/b7f6e1bf-7e76-444b
 
 ## Related
 
-This project is based on the project by JavaScript Mastery.
+This project is based on the project by [JavaScript Mastery](https://github.com/adrianhajdin).
