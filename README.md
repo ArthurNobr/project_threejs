@@ -10,11 +10,11 @@ My goal with this project is to learn about 3D graphics and their implementation
 - [Three.js](https://threejs.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 
-## Screenshoots
+## :camera_flash: Screenshoots
 
 https://github.com/ArthurNobr/project_threejs/assets/97702385/b7f6e1bf-7e76-444b-83bd-0d0f13fa74ae
 
-## Related
+## :pushpin: Related
 
 This project is based on the project by [JavaScript Mastery](https://github.com/adrianhajdin).
 
